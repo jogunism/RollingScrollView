@@ -1,3 +1,3 @@
-Rolling View like banner in iphone app store.
+Rolling banner like iphone app store's one.
 
-* The module was customized for Rolling ScrollView Shawn Seals of this module.
+- This module was customized Shawn Seals's RollingScrollView.
